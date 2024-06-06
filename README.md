@@ -1,3 +1,25 @@
+
+# React ToDo App
+## Description
+Project aims to create ToDo App using React
+## Project Skeleton
+```
+|----public
+        |----index.html
+|----src        
+
+       |----App.js
+       |----App.css
+       |----index.js
+       |----index.css
+|----readme.md
+```
+## Project-gif
+![JavaScript-project](https://github.com/achieve-software/achieve-software/blob/main/img/r17reacttodo.gif?raw=true)
+## Project-link
+https://voluble-semifreddo-38e869.netlify.app/
+### At the end of the project, following topics are to be covered;
+-React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
