@@ -36,7 +36,7 @@ function deleteItem (id) {
       value={newItem}
       onChange={ (e) =>setNewItem(e.target.value)} />
      </form>
-     <button onClick={ (e) => addItem()}>Add Todo</button>
+     <button onClick={ (e) => addItem()}>Add </button>
      <ul>
      {items.map( (item) =>{
 return <li key={item.id}>{item.value} <button onClick={ (e) => deleteItem(item.id) }>X</button>  </li>
